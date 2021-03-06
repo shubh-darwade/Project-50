@@ -1,0 +1,37 @@
+li{
+    color: #000000;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(138, 0, 138);
+
+
+}
+h1{
+    font-size: 50px;
+    color: rgb(122, 122, 122);
+    background-color: rgb(255, 95, 2);
+    border: solid red 5px;
+}
+
+h2{
+    font-size: 40px;
+    color: seagreen;
+    background-color:#000000;
+}
+h3{
+    font-size: 30;
+    color: rgb(138, 0, 138);
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ 
+}
+.item{
+    background-color: yellow;
+    margin-top: 100px;
+    border: solid rgb(138, 0, 138);
+    border-radius: 5px;
+}
